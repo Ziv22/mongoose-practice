@@ -1,7 +1,6 @@
 {
   "name": "db",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,5 +13,14 @@
     "express": "^4.15.0",
     "mongoose": "^4.8.5",
     "request": "^2.80.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ziv22/mongoose-practice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ziv22/mongoose-practice/issues"
+  },
+  "homepage": "https://github.com/Ziv22/mongoose-practice#readme",
+  "description": ""
 }
